@@ -4,7 +4,7 @@ import tool.driver as driver
 import requests,json
 info = {
     "题库": {},
-    "学校信息": {},
+    "学校信息": {河南艺术职业学院},
     "最新消息":{}
 }
 
